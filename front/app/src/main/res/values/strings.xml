@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AppFiscalZonaAzul</string>
+    <string name="proxima_localiza_o">Proxima Localização</string>
+    <string name="itinerario">itinerario</string>
+    <string name="title_activity_tela_maps">TelaMapsActivity</string>
+</resources>

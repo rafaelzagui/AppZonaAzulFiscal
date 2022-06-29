@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "252964297737",
+    "project_id": "projeto-zona-azul",
+    "storage_bucket": "projeto-zona-azul.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252964297737:android:346645e64e031587c86cd8",
+        "android_client_info": {
+          "package_name": "br.com.puc.appfiscalzonaazul"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252964297737-cci66gc1cigbe2lfjb0j9jer0umokhqh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDliY-4jtVl0MC6tCxBGw0HEZIeik4X1Zo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252964297737-cci66gc1cigbe2lfjb0j9jer0umokhqh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
